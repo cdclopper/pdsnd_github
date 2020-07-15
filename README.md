@@ -1,9 +1,9 @@
 ### 7/15/2020
 
-### Bikeshare Display Data
+### Project Title
 Replace the Project Title
 
-### Displays requested data from bikesharing in Chicago, Washington, and New York
+### Description
 Describe what your project is about and what it does
 
 ### Files used
