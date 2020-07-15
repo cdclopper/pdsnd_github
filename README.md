@@ -1,15 +1,19 @@
 ### Date created
-Include the date you created this project and README file.
+7/15/2020
 
 ### Project Title
-Replace the Project Title
+Bikeshare Display Data
 
 ### Description
-Describe what your project is about and what it does
+Displays selected data of bikesharing from 3 different cities, Chicago, New York, and Washington
 
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Programming for Data Science https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104
+original repo https://github.com/udacity/pdsnd_github
+
 
