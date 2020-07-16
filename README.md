@@ -1,6 +1,9 @@
 ### Date created
 7/15/2020
 
+### Author
+Chad Clopper
+
 ### Project Title
 Bikeshare Display Data
 
