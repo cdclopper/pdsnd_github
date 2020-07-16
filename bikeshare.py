@@ -24,7 +24,7 @@ def get_filters():
             print('\n')
             break
         else:
-            print("\nYou may have made a typo, please try again.")
+            print("\nI couldn't understand, please try again.")
 
     """while loop to ensure valid input for time_filter """
     while True:
@@ -34,7 +34,7 @@ def get_filters():
             print('\n')
             break
         else:
-            print("\nI couldn't understand, perhaps you made a typo. Please try again.")
+            print("\nI couldn't understand, please try again.")
 
     """filter to get month"""
     if time_filter.lower() == 'month' or time_filter.lower() == 'both':
@@ -47,7 +47,7 @@ def get_filters():
                 print('\n')
                 break
             else:
-                print("\nI didn't get that, did you make a typo? Please try again.")
+                print("\nI couldn't understand, please try again.")
     else:
         month = None
 
@@ -62,7 +62,7 @@ def get_filters():
                 print('\n')
                 break
             else:
-                print("Can't compute. Maybe a typo, please try again.", '\n')
+                print("\nI couldn't understand, please try again.", '\n')
     else:
         day = None
     print('-'*40)
