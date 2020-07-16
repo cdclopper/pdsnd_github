@@ -4,6 +4,9 @@
 ### Author
 Chad Clopper
 
+### Contact
+cdclopper@gmail.com
+
 ### Project Title
 Bikeshare Display Data
 
