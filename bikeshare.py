@@ -6,9 +6,9 @@ days_of_the_week = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'sat
 
 monthes = ["january", "february", "march", "april", "may", "june"]
 
-city_data = { 'chicago': r'C:\Users\Brooke\Desktop\chicago.csv',
-              'new york': r'C:\Users\Brooke\Desktop\new_york_city.csv',
-              'washington': r'C:\Users\Brooke\Desktop\washington.csv'
+city_data = { 'chicago': r'C:\Users\Brooke\Desktop\Udacity\Programing\Project_3\project_3_repo\pdsnd_github\chicago.csv',
+              'new york': r'C:\Users\Brooke\Desktop\Udacity\Programing\Project_3\project_3_repo\pdsnd_github\new_york_city.csv',
+              'washington': r'C:\Users\Brooke\Desktop\Udacity\Programing\Project_3\project_3_repo\pdsnd_github\washington.csv'
               }
 
 def get_filters():
