@@ -18,7 +18,7 @@ def get_filters():
 
     """while loop to ensure valid input for city """
     while True:
-        print('Which city would you like to see data from?')
+        print('For which city would you like to see data?')
         city = input("Chicago, New York, or Washington: ")
         if city.lower() == 'chicago' or city.lower() == 'new york' or city.lower() == 'washington':
             print('\n')
